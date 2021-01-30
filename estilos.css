@@ -1,0 +1,22 @@
+body{
+    margin: 0 auto;
+    background: hsl(274, 11%, 12%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pregunta{
+    margin: 0 auto;
+    width: 30%;
+    
+    /* background: brown; */
+    margin-bottom: 10px;
+    display: flex;
+    align-items: left;
+    justify-content: space-evenly;
+    flex-direction: column;
+    background: cornsilk;
+    padding: 20px;
+}
+p{
+    margin: 0;
+}
